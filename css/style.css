@@ -54,3 +54,7 @@ h3{
     padding-top: 20px
 }
 
+#zen-participation, #zen-benefits {
+    background-color: rgb(56, 55, 55);
+    padding: 10px;
+}
