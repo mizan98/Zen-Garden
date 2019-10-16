@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 body{
-    margin: -8px -70px;
+    margin: -8px;
     padding-right: 0px 50px 0px 50px
 }
 
@@ -12,8 +12,9 @@ p{
     font-family: 'IBM Plex Mono', monospace;
     text-align: justify;
     box-sizing: border-box;
-    padding: 0px, 200px;
-    margin: 30px 70px
+    padding-left: 100px;
+    padding-right: 90px;
+    padding-top: 20px;
 }
 
 h1 {
@@ -43,11 +44,7 @@ header {
     padding: 60px;
     background-size: 1600px 500px;
     background-position-x: 70px;
-}
-
-#zen-summary{
-    box-sizing: border-box;
-    padding: 25px 50px 50px 50px;
+    margin-left: -70px;
 }
 
 h3{
