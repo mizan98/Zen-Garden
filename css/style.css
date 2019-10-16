@@ -55,6 +55,7 @@ h3{
 }
 
 #zen-participation, #zen-benefits {
-    background-color: rgb(56, 55, 55);
+    background-color: rgb(93, 128, 93);
+    background-image: url('../img/bamboo.png');
     padding: 10px;
 }
