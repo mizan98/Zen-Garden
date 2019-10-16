@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
 body{
-    margin: -8px;
+    margin: -8px -70px;
     padding-right: 0px 50px 0px 50px
 }
 
@@ -12,7 +12,8 @@ p{
     font-family: 'IBM Plex Mono', monospace;
     text-align: justify;
     box-sizing: border-box;
-    padding: 0px, 50px;
+    padding: 0px, 200px;
+    margin: 30px 70px
 }
 
 h1 {
@@ -40,7 +41,8 @@ h2 {
 header {
     background-image: url('../img/huntington.png');
     padding: 60px;
-    background-size: 1900px 300px;
+    background-size: 1600px 500px;
+    background-position-x: 70px;
 }
 
 #zen-summary{
@@ -49,5 +51,5 @@ header {
 }
 
 h3{
-    margin: 0px 50px
+    margin: 0px 120px
 }
